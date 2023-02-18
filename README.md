@@ -2,7 +2,7 @@
 calculate resonant stub for VHF antenna
 
 Installation:
-*Download or clone this repo
-*copy 'smithplot' folder from https://github.com/kosugor/pySmithPlot inside smith-stub-calc folder
-*run poetry install
-*start main.py
+- Download or clone this repo
+- Copy 'smithplot' folder from https://github.com/kosugor/pySmithPlot inside smith-stub-calc folder
+- Run poetry install
+- Start main.py
